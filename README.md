@@ -13,3 +13,4 @@ This is what I am:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am jack of all trades but master of none
 
+![Visitor Count](https://profile-counter.glitch.me/dharamhbtik/count.svg)
