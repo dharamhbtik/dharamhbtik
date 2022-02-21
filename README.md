@@ -5,7 +5,7 @@
 	<a href="https://twitter.com/updateyourskill"><img src="imgs/twitter.svg" alt="Twitter"></a>
 	<a href="https://github.com/dharamhbtik"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/kumardh"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a href="https://dharamhbtik.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+	<a href="https://dharamhbtik.github.io/"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
 </p>
 
 An experienced, enthusiastic team leader capable of high-quality results in a highly technical field, seeking a technically challenging and responsible job in the area of software development, which allows the pursuit of career advancement and expands my knowledge.
