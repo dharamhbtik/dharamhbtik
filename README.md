@@ -12,7 +12,7 @@ An experienced, enthusiastic team leader capable of high-quality results in a hi
 
 **Specialties:** CMMI V2.0, C#, VB.NET, ASP.NET, MSSQL SERVER, SQL, PL/SQL, Telerik Rad Controls, Infragistics Ultra Win Controls, jQuery, JavaScript, HTML, XML, WinForms, WPF, WCF, Web API, Xamarin.Forms, Koltin, Android, iOS, Windows Phone, IONIC Framework, Crystal Reports, Vue
 
-- 🔭 I’m currently working on .Net frameowkr and Xamarin forms
+- 🔭 I’m currently working on .Net framework and Xamarin forms
 - 🌱 I’m currently learning  Andorid development using Android Studio and Kotlin
 - 👯 I’m looking to collaborate on android and iOS project
 - 🤔 I’m looking for help with iOS development using Swift
