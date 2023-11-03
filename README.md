@@ -12,14 +12,14 @@ An experienced, enthusiastic team leader capable of high-quality results in a hi
 
 **Specialties:** CMMI V2.0, C#, VB.NET, ASP.NET, MSSQL SERVER, SQL, PL/SQL, Telerik Rad Controls, Infragistics Ultra Win Controls, jQuery, JavaScript, HTML, XML, WinForms, WPF, WCF, Web API, Xamarin.Forms, Koltin, Android, iOS, Windows Phone, IONIC Framework, Crystal Reports, Vue
 
-- 🔭 I’m currently working on .Net framework and Xamarin forms
-- 🌱 I’m currently learning  Andorid development using Android Studio and Kotlin
+- 🔭 I’m currently working on .Net framework and Xamarin forms, Xamarin to MAUI Migrations
+- 🌱 I’m currently learning  Andorid development using Android Studio, Kotlin , and Flutter
 - 👯 I’m looking to collaborate on android and iOS project
 - 🤔 I’m looking for help with iOS development using Swift
 - 💬 Ask me about .Net (web, Windows and Mobile)
 - 📫 How to reach me: ping me on skype or email me on dharmendra.hbti@hotmail.com
 
-- ⚡ Fun fact: I am jack of all trades but master of none
+- ⚡ Fun fact: checking is there is any :( 
 
 [![Dharmendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharamhbtik&count_private=true&show_icons=true&theme=radical)](https://github.com/dharamhbtik/github-readme-stats)
 
